@@ -27,7 +27,7 @@ This commands includes
 <BR>
 
 ## Output
-```
+```python
 DEVELOPED BY : Kanagavel A K
 REGISTER NO : 212223230096
 ```
